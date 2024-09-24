@@ -99,6 +99,15 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________
+Aula 1.I Operador Logico E - && 
+
+As duas comparações precisam ser verdadeiras.
+Quando trabalhamos o op.E, usamos Duas ou mais informações/Comparações
+Ex:
+Queremos validar 2 inf: media e faltas dos alunos.
+Para melhor organização colocamos parenteses para cada verificação.
+Ex: 
+if (()())
 
 
 
